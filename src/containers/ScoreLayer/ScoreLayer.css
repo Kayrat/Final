@@ -1,0 +1,7 @@
+.ScoreLayer {
+    width: 50%;
+    position: absolute;
+    left: 0px;
+    background-color: white;
+    height: 100%;
+}

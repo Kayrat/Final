@@ -1,0 +1,7 @@
+.ReactionLayer {
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    background-color: orange;
+    height: 100%;
+}
